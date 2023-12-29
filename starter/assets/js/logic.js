@@ -164,7 +164,6 @@ function checkAnswer(_questionNumber, _selectedOption) {
     //Check if there are any questions left
     if(questionNumber < questions.length){
         //There are more questions, show the next
-        console.log(questionNumber);
         showQuestion(questionNumber);
     }else {
         //There are no more questions show the End Screen
