@@ -10,8 +10,8 @@ let maxScore        = 100;
 let questionNumber  = 0;
 
 // Create audio elements for correct and incorrect sounds
-const correctSound = new Audio('./assets/sfx/correct.wav');
-const incorrectSound = new Audio('./assets/sfx/incorrect.wav');
+const correctSound = new Audio('./starter/assets/sfx/correct.wav');
+const incorrectSound = new Audio('./starter/assets/sfx/incorrect.wav');
 
 //Saving containers into variables
 let startScreenContainer    = document.getElementById("start-screen");
