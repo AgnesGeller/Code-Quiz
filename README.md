@@ -19,6 +19,10 @@ This project is a web application that allows users to take a timed quiz on Java
 
 To use this project, open the index.html file in your web browser. You will see a welcome screen with a start button. Click on the start button to begin the quiz. You will see a question and four options. Select an answer by clicking on one of the options. You will see a feedback message below the question. A new question will appear after a short delay. You can see your score and the timer on the top right corner of the screen. When the quiz is over, you will see your final score and the remaining time. You can enter your initials and click on the submit button to save your score. You can click on the view high scores button to see the high scores list. You can also clear the scores by clicking on the clear high scores button.
 
+## Installation
+
+N/A
+
 ## Contributing
 
 This project is open for contributions. If you want to contribute to this project, please follow these steps:
@@ -31,7 +35,17 @@ This project is open for contributions. If you want to contribute to this projec
 - Create a pull request from your forked repository to the original repository.
 - Wait for your pull request to be reviewed and merged.
 
+## Credit
+
+N/A
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Link
+
+Feel free to visit my portfolio webpage https://agnesgeller.github.io/Code-Quiz/
+
+
 ![quiz](https://github.com/AgnesGeller/Code-Quiz/assets/147996856/37add95f-d702-4ee1-9db9-43391fc1be7e)
